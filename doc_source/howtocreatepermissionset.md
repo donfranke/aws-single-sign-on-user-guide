@@ -21,8 +21,10 @@ Use this procedure to create a predefined permission set that uses a single AWS 
 
      1. Choose **Next**\.
 
-     1. Under **Predefined policy**, select one of the IAM **Job function policies** or **Common permission policies** in the list, and then choose **Next**\. For more information, see [AWS managed policies for job functions](http://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html) and [AWS managed policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#aws-managed-policies) in the *AWS Identity and Access Management User Guide*\.
+     1. Under **Policy for predefined permission set**, select one of the IAM **Job function policies** or **Common permission policies** in the list, and then choose **Next**\. For more information, see [AWS managed policies for job functions](http://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_job-functions.html) and [AWS managed policies](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_managed-vs-inline.html#aws-managed-policies) in the *AWS Identity and Access Management User Guide*\.
 
+     1. At the **Permission set details** screen, provide a persmission set name and other optional information, then click Next.
+     
      1. At the **Review and create** screen, review the selections you made, and then choose **Create**\.
    + **Custom permission set**
 
